@@ -1,5 +1,5 @@
 # Cypress core workshop
-Repository for [Cypress core workshop](https://filiphric.com/cypress-core-workshop)
+Repository for [Cypress core workshop](https://filiphric.com/cypress-core-workshop) [GitNation Link](https://portal.gitnation.org/contents/how-to-start-with-cypress)
 
 ## What is Cypress core workshop
 4 module workshop, during which you can learn core principles and patterns. Four 3-hour long online sessions are packed with quality content and many great tips from my more than 5 year long experience with Cypress.io. Workshop is built on "learn by doing" principle. This means you can look forward to many practical examples, working with code and real-life problem solving.
